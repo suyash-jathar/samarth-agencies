@@ -39,7 +39,6 @@ dependencies:
   pdf: null
   printing: null
   indian_currency_to_word:
-  share_plus:
   path_provider: ^2.0.10
   universal_html:
   js:

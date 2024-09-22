@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440390071098",
+    "project_id": "samarth-agencies",
+    "storage_bucket": "samarth-agencies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440390071098:android:7526fb0f58071cabd49603",
+        "android_client_info": {
+          "package_name": "com.example.samarth_agencies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFErtYAZwSGEYO11LzZc6IWM3bTfYH0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
